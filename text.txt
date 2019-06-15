@@ -1,0 +1,4 @@
+black: #000000
+ash: #626262
+gold: #b4ad9e
+light white: #F0F0F0
